@@ -1,6 +1,6 @@
 # Simulation Study of Supermarket Customer Flow
 University of West Bohemia Plzen
-Faculty of applied sciences
+Faculty of Applied Sciences
 Soft. Syst. Reliability and Performance - project (VSS-E)
 
 # Overview
